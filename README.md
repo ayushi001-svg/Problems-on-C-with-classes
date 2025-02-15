@@ -1,0 +1,1 @@
+These are some of the theory and problems which i covered while learning C++ language. With its simple and easy to understand syntax C++ is best to use in Competitive Programming. It was fun learning C++ Basics ✨✨
